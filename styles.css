@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+.small-rectangle-input {
+    width: 150px;
+    height: 30px;
+}
